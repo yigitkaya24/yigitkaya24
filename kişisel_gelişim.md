@@ -1,4 +1,4 @@
-<h1>Kariyer Hedefim</h1>
+<h1>Kişisel Gelişim Hedeflerim</h1>
 
 <h5>
 ❌  HTML             >> <a href="https://www.google.com">HTML Anlatımı</a> </br>
