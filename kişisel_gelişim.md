@@ -8,6 +8,8 @@
 ❌  ASP.NET          >> <a href="https://www.google.com">ASP.NET Anlatımı</a> </br>
 ❌  Unity            >> <a href="https://www.google.com">Unity Anlatımı</a> </br>
 ❌  Python           >> <a href="https://www.google.com">Python Anlatımı</a> </br>
+❌  Swift            >> <a href="https://app.patika.dev/courses/swift">Swift Anlatımı</a> </br>
+❌  Swift IOS        >> <a href="https://app.patika.dev/paths/swift-ile-ios-programlama-patikasi">Swift IOS Anlatımı</a> </br>
 ❌  Veri Depolama    >> <a href="https://www.google.com">Veri Depolama Anlatımı</a> </br>
 </h5>
 <h6>
