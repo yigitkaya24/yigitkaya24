@@ -18,4 +18,4 @@ Hedef Bitiş Tarihleri
 </h6>
 
 
-İşaretleme için ❌✔️
+İşaretleme için ❌🔅✔️
