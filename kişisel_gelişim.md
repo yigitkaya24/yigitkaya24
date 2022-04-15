@@ -3,7 +3,6 @@
 <h5>
 ❌  HTML             >> <a href="https://www.google.com">HTML Anlatımı</a> </br>
 ❌  CSS              >> <a href="https://www.google.com">CSS Anlatımı</a> </br>
-❌  Basit Javascript >> <a href="https://www.google.com">Basit Javascript Anlatımı</a> </br>
 ❌  C#               >> <a href="https://www.google.com">C# Anlatımı</a> </br>
 ❌  ASP.NET          >> <a href="https://www.google.com">ASP.NET Anlatımı</a> </br>
 ❌  Unity            >> <a href="https://www.google.com">Unity Anlatımı</a> </br>
