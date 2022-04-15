@@ -1,6 +1,7 @@
 <h1>Kişisel Gelişim Hedeflerim</h1>
 
 <h5>
+❌  GIT             >> <a href="https://app.patika.dev/courses/git">GIT Anlatımı</a> </br>
 ❌  HTML             >> <a href="https://www.google.com">HTML Anlatımı</a> </br>
 ❌  CSS              >> <a href="https://www.google.com">CSS Anlatımı</a> </br>
 ❌  C#               >> <a href="https://www.google.com">C# Anlatımı</a> </br>
