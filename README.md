@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yigitkaya24
-- 👀 I’m interested in Coding (C#)
-- 🌱 I’m currently learning Fusion 360
+- 👀 I’m interested in Coding (Java & C#)
+- 🌱 I’m currently learning Java
 - 📜 My native language is Turkish, I can understand English
 - 📫 How to reach me kyigit1905@outlook.com
 
