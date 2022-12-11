@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @yigitkaya24
-- 👀 I’m interested in Coding (Python & C#)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Coding 
+  - Python
+  - C#
+  - Javascript ( + HTML + CSS)
+- 🌱 I’m currently learning Javascript & HTML & CSS
 - 📜 My native language is Turkish, I can understand English
 - 📫 How to reach me kyigit1905@outlook.com
 
