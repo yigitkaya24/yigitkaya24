@@ -1,9 +1,15 @@
+# Yiğit Kaya
 - 👋 Hi, I’m @yigitkaya24
-- 👀 I’m interested in Coding 
-  - Python
-  - C#
-  - Javascript ( + HTML + CSS)
-- 🌱 I’m currently learning Javascript & HTML & CSS
+- 👀 I’m interested in Coding and Robotics
+  - Intermediate
+    - Python
+    - C#
+    - Arduino
+  - Beginner
+    - Javascript ( + HTML + CSS )
+    - Java
+    - C++ ( Arduino IDE )
+- 🌱 I’m currently studying on Python
 - 📜 My native language is Turkish, I can understand English
 - 📫 How to reach me kyigit1905@outlook.com
 
